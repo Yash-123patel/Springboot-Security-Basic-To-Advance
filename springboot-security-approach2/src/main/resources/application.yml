@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot-security-approach2
+  security:
+    user:
+      name: yash
+      password: patel
+server:
+  port: 8081

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-security-approach3
+server:
+  port: 8081
